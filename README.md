@@ -12,12 +12,12 @@ The stock performance with the 11 selected companies for 2017 was much better th
 
 In the images below you can see the difference's in execution times from before and after the refactoring of the script. It doesn't appear that refactoring helped from the inital code.
 
-- Green_Stocks on left side VS VBA_Challenge on right side:
+- YEAR 2017: Green_Stocks on left side VS VBA_Challenge on right side:
 
 <img width="1306" alt="VBA_2017Stock_Comparison" src="https://user-images.githubusercontent.com/88064931/148018766-8c987834-edc4-47e2-bd1a-5c25760aa892.png">
 
 
-- Green_Stocks on left side VS VBA_Challenge on right side:
+- YEAR 2018: Green_Stocks on left side VS VBA_Challenge on right side:
 
 <img width="1366" alt="VBA_2018Stock_Comparison" src="https://user-images.githubusercontent.com/88064931/148019075-4b6e7638-e144-4383-bc0d-2c7763597d6e.png">
 
